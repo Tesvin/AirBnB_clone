@@ -174,7 +174,7 @@ IMPORTANT: The project was created in UBUNTU 14.04.3 LTS and Python 3.4.3.
 Feel free to contact us!
 
 - GitHub at <a href="https://github.com/Damfery">`Damfery`</a>
-- GitHub at <a href="https://github.com/Damfery">`Damfery`</a>
+- GitHub at <a href="https://github.com/Tesvin">`Tesvin`</a>
 
 ---
 
